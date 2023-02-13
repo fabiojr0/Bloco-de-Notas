@@ -1,0 +1,15 @@
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe.config
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.pdb
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.AssemblyReference.cache
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Form1.resources
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Properties.Resources.resources
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.exe
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.pdb
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe.manifest
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.application
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.exe.manifest
+C:\Users\AlexandreRibeiro\Desktop\Fábio Jr\notes\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.application
